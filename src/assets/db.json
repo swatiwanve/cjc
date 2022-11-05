@@ -1,0 +1,22 @@
+{
+    "Student":[
+        {
+            "id":1,
+            "name":"swati",
+            "uname":"swati@123",
+            "password":"123"
+        },
+        {
+            "id":2,
+            "name":"priyanka",
+            "uname":"priyanka@abv",
+            "password":"abv"
+        },
+        {
+            "id":1,
+            "name":"Rahul",
+            "uname":"Rahul@123",
+            "password":"pqr"
+        }
+    ]
+}
